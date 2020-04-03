@@ -185,7 +185,7 @@ public final class Server extends BaseServer {
 
         String serverScheme = commandLine.getOptionValue("server_scheme");
         if (null != serverScheme) {
-            Latkes.setLatkeProperty("serverScheme", serverScheme);
+            Latkes.setLatkeProperty("serverScheme", serverScheme) ;
         }
         String serverHost = commandLine.getOptionValue("server_host");
         if (null != serverHost) {
