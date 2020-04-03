@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.b3log:latke-core:3.2.15" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tika:tika-core:1.22" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.freemarker:freemarker:2.3.29" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.26.0-GA" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:28.2-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.3.4" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:3.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.b3log:latke-repository-mysql:3.2.15" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.19" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.b3log:latke-repository-h2:3.2.15" level="project" />
+    <orderEntry type="library" name="Maven: com.h2database:h2:1.4.199" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:7.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.google.inject:guice:no_aop:4.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.12.1" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-all:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-abbreviation:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-admonition:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-anchorlink:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-aside:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-attributes:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-autolink:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: org.nibor.autolink:autolink:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-definition:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-emoji:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-enumerated-reference:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-escaped-character:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-footnotes:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-gfm-issues:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-gfm-strikethrough:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-gfm-tables:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-gfm-tasklist:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-gfm-users:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-gitlab:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-jekyll-front-matter:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-jekyll-tag:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-media-tags:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-macros:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-ins:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-xwiki-macros:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-superscript:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-tables:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-toc:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-typographic:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-wikilink:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-yaml-front-matter:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-ext-youtube-embedded:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-formatter:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-html-parser:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-html2md-converter:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-profile-pegdown:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vladsch.flexmark:flexmark-util:0.50.40" level="project" />
+    <orderEntry type="library" name="Maven: com.vdurmont:emoji-java:5.1.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-cli:commons-cli:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-http:5.0.13" level="project" />
+    <orderEntry type="library" name="Maven: org.jodd:jodd-core:5.0.13" level="project" />
+    <orderEntry type="library" name="Maven: org.owasp.encoder:encoder:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.18" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Maven: eu.bitwalker:UserAgentUtils:1.21" level="project" />
+  </component>
+</module>
