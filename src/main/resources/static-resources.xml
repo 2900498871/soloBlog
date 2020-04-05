@@ -68,6 +68,8 @@
     <include path="/skins/**/*.woff"/>
     <include path="/skins/**/*.cur"/>
 
+    <include path="/skins/**/*.mp3"/>
+
     <include path="/scss/**.css"/>
     <include path="/scss/**/*.css"/>
     <include path="/scss/fonts/*.eot"/>
@@ -102,5 +104,7 @@
     <include path="/plugins/**/*.moc"/>
     <include path="/plugins/**/*.mtn"/>
     <include path="/plugins/**/*.ogg"/>
+
+
 
 </static-files>
