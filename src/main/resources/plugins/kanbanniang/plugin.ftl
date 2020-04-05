@@ -17,8 +17,10 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 -->
-<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/kanbanniang@0.2.6/index.css"/>
-<script async src="https://cdn.jsdelivr.net/npm/kanbanniang@0.2.6/index.js"></script>
+<#--<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/kanbanniang@0.2.6/index.css"/>
+<script async src="https://cdn.jsdelivr.net/npm/kanbanniang@0.2.6/index.js"></script>-->
+<link type="text/css" rel="stylesheet" href='${staticServePath}/plugins/kanbanniang/css/index.css?${staticResourceVersion}'/>
+<script async src='${staticServePath}/plugins/kanbanniang/css/index.js?${staticResourceVersion}'></script>
 <div class="solo-kanbanniang">
     <div class="solo-kanbanniang__tip"></div>
     <canvas id="soloKanbanniang" width="280" height="250"></canvas>
